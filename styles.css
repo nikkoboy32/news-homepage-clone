@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --primary-font: "Inter", serif;
+}
+
+body, p, h3,ul,li, a {font-family: var(--primary-font) !important;}
+.bright_future_text {font-family: var(--primary-font); font-weight: 800 !important;}
+
+img {width: 100% !important;}
+
+.navbar-nav li a {font-weight: 400; font-family: var(--primary-font) !important;}
